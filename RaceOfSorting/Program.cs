@@ -8,6 +8,8 @@ namespace RaceOfSorting
         static void Main(string[] args)
         {
             BenchmarkRunner.Run<ListOfSortingBenchmark>();
+            Console.ReadLine();
+            
         }
     }
 }
