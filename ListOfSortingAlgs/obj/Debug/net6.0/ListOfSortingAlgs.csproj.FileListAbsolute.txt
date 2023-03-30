@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\bin\Debug\net6.0\ListOfSortingAlgs.deps.json
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\bin\Debug\net6.0\ListOfSortingAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\bin\Debug\net6.0\ListOfSortingAlgs.pdb
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.AssemblyInfo.cs
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\refint\ListOfSortingAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ListOfSortingAlgs.pdb
+C:\Users\User\source\repos\RaceOfSorting\ListOfSortingAlgs\obj\Debug\net6.0\ref\ListOfSortingAlgs.dll
