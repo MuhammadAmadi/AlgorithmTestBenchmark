@@ -1,0 +1,6 @@
+// Validating benchmarks:
+Benchmarked method `TestQuickSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestBoobleSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestSelectionSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestCountingSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestDotnetSort` is static. Benchmarks MUST be instance methods, static methods are not supported.

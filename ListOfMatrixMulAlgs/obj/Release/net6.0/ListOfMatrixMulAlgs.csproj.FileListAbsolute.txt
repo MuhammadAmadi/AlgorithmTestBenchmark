@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\bin\Release\net6.0\ListOfMatrixMulAlgs.deps.json
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\bin\Release\net6.0\ListOfMatrixMulAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\bin\Release\net6.0\ListOfMatrixMulAlgs.pdb
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.AssemblyInfo.cs
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\refint\ListOfMatrixMulAlgs.dll
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ListOfMatrixMulAlgs.pdb
+C:\Users\User\source\repos\RaceOfSorting\ListOfMatrixMulAlgs\obj\Release\net6.0\ref\ListOfMatrixMulAlgs.dll

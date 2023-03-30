@@ -14,7 +14,7 @@ namespace RaceOfSorting
         {
             for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = rnd.Next(0, 100000);
+                arr[i] = rnd.Next(0, 1000);
             }
         }
 
@@ -51,6 +51,13 @@ namespace RaceOfSorting
         {
             int[] testArr = GetArr();
             MySort.CountingSort(testArr);
+        }
+
+        [Benchmark]
+        public void TestDotnetSort()
+        {
+            int[] testArr = GetArr();
+            Array.Sort(testArr);
         }
     }
 }

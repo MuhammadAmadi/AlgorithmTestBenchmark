@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ListOfMatrixMulAlgs\ListOfMatrixMulAlgs.csproj" />
     <ProjectReference Include="..\ListOfSortingAlgs\ListOfSortingAlgs.csproj" />
   </ItemGroup>
 

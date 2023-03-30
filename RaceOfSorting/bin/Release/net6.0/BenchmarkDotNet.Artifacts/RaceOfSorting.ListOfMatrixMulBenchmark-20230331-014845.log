@@ -1,0 +1,4 @@
+// Validating benchmarks:
+Benchmarked method `TestSerialMul` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestParallelMulThread` is static. Benchmarks MUST be instance methods, static methods are not supported.
+Benchmarked method `TestParallelMulTask` is static. Benchmarks MUST be instance methods, static methods are not supported.

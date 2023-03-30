@@ -1731,6 +1731,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "ListOfMatrixMulAlgs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ListOfMatrixMulAlgs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListOfMatrixMulAlgs.dll": {}
+        }
+      },
       "ListOfSortingAlgs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -5571,6 +5581,11 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "ListOfMatrixMulAlgs/1.0.0": {
+      "type": "project",
+      "path": "../ListOfMatrixMulAlgs/ListOfMatrixMulAlgs.csproj",
+      "msbuildProject": "../ListOfMatrixMulAlgs/ListOfMatrixMulAlgs.csproj"
+    },
     "ListOfSortingAlgs/1.0.0": {
       "type": "project",
       "path": "../ListOfSortingAlgs/ListOfSortingAlgs.csproj",
@@ -5580,6 +5595,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BenchmarkDotNet >= 0.13.1",
+      "ListOfMatrixMulAlgs >= 1.0.0",
       "ListOfSortingAlgs >= 1.0.0"
     ]
   },
@@ -5616,6 +5632,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\RaceOfSorting\\ListOfMatrixMulAlgs\\ListOfMatrixMulAlgs.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\RaceOfSorting\\ListOfMatrixMulAlgs\\ListOfMatrixMulAlgs.csproj"
+            },
             "C:\\Users\\User\\source\\repos\\RaceOfSorting\\ListOfSortingAlgs\\ListOfSortingAlgs.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\RaceOfSorting\\ListOfSortingAlgs\\ListOfSortingAlgs.csproj"
             }
